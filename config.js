@@ -72,13 +72,13 @@ const CONFIG = {
             content: `
         <p>Das Webdesign entwickelt sich ständig weiter. In diesem Jahr sehen wir einige besonders spannende Trends, die das Nutzererlebnis grundlegend verändern werden.</p>
 
-        <h2>1. KI-gestütztes Design</h2>
+        <h2>1. KI-gestütztes Design in 2026</h2>
         <p>Künstliche Intelligenz wird immer stärker in den Designprozess integriert. Von automatisch generierten Layouts bis hin zu personalisierten Nutzererlebnissen — KI macht Design effizienter und individueller.</p>
 
         <h2>2. Immersive 3D-Erlebnisse</h2>
         <p>Dank WebGPU und verbesserter Browser-Performance werden 3D-Elemente im Web immer alltäglicher. Produkte lassen sich drehen, Räume virtuell betreten und Daten dreidimensional visualisieren.</p>
 
-        <h2>3. Nachhaltiges Design</h2>
+        <h2>3. Nachhaltiges Design in 2026</h2>
         <p>Performance-optimierte Websites mit geringerem Energieverbrauch rücken in den Fokus. Schlanker Code, effiziente Bilder und durchdachte Animationen schonen Ressourcen — und die Umwelt.</p>
 
         <h2>Fazit</h2>
